@@ -1,2 +1,2 @@
 # Machine_Learning
-Trying to learn about Gen-AI
+This is my understanding about linear regression from scratch. 
